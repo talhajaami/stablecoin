@@ -163,7 +163,7 @@ var (
 
 	// StableCoinChainConfig contains the chain parameters to run a node on the Sepolia test network.
 	StableCoinChainConfig = &ChainConfig{
-		ChainID:                 big.NewInt(96),
+		ChainID:                 big.NewInt(904),
 		HomesteadBlock:          big.NewInt(0),
 		DAOForkBlock:            nil,
 		DAOForkSupport:          true,
