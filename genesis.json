@@ -14,11 +14,11 @@
     "ethash": {}
   },
   "alloc": {
-    "0x4BaBE364e233E45aFA1bE366372B932c2E98d2d0": {
+    "0x57213dc74388Db0Cd14C87f637B6071698Fa0Ef8": {
       "balance": "10000000000000000000000000000"
     }
   },
-  "coinbase": "0x4BaBE364e233E45aFA1bE366372B932c2E98d2d0",
+  "coinbase": "0x57213dc74388Db0Cd14C87f637B6071698Fa0Ef8",
   "difficulty": "0x20000",
   "extraData": "",
   "gasLimit": "0x2fefd8",
